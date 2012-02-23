@@ -1,0 +1,3 @@
+[submodule "ioio"]
+	path = ioio
+	url = git://github.com/ytai/ioio.git
